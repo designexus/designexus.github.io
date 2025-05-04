@@ -1,0 +1,14 @@
+:root {
+  --neon-green: #39FF14;
+  --bright-orange: #FF7F00;
+  --deep-purple: #5D3FD3;
+  --warm-yellow: #FFEB3B;
+  --earthy-brown: #4B2E0F;
+}
+
+.afro-pattern-bg1 {
+  background-image: url('../svg/pattern-tribal.svg');
+  background-repeat: repeat;
+  background-size: 200px;
+  opacity: 0.05;
+}
